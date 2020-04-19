@@ -18,7 +18,7 @@ class TransactionList extends StatelessWidget {
         SizedBox(height:10),
         Container(
         height:200 ,
-        child: Image.asset('assets/images/design.png', fit:BoxFit.cover),
+        child: Image.asset('assets/images/Design.png', fit:BoxFit.cover),
         ),
         ],
       )
