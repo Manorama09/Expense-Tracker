@@ -63,4 +63,3 @@ class Chart extends StatelessWidget {
     );
   }
 }
-      
